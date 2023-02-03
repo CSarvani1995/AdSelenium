@@ -24,7 +24,8 @@ public class Testing {
 		String URL =pro.getProperty("url");
 		
 		driver.get(URL);
-		//pused
+		//pushed
+		//2nd pushed
 
 		
 		
